@@ -12,7 +12,7 @@ This program is written in C language on Ubuntu 22.04.1 LTS. To build this progr
 After unarchiving the folder, you should see the following files:
 ```bash
 $ ls
-Makefile     README.md    proc0.txt    proc1.txt    proc2.txt    vmsim.h      vmsim_main.c vmsim_main.h vmsim_op.c   vmsim_op.h
+Makefile     README.md    example    vmsim.h      vmsim_main.c vmsim_main.h vmsim_op.c   vmsim_op.h
 ```
 
 To build the program, run the following command in the terminal:
